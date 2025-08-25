@@ -104,8 +104,8 @@ redirect_from:
 
 ### 专利
 ---
-- `章轲`. 基于并行时空注意力机制的TCN多元时间序列预测方法. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=wScU5_zS5CNLOAnwh8F96Qv54ROP-w6oqSY1DQ5dzXP9wMJFo4f45sC_WZff0c1rW5P3X59rvQ_R5_tBqyfp_RolchKrhJB17DG4XZBELg2u4ZxVfmys9-gCqeNPolOXea0kOItGO8kMlFaZPuhVl4wIyiUwbVuQayyINb2FMj_aUafIzG5gBA==&uniplatform=NZKPT&language=CHS)
-- `章轲`. 一种基于深度模型框架的高效细粒度图像分类模型.[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=wScU5_zS5COqOuUZD0Fg3vqSSC6j5nz7FldWCPXcrWO6FuJ0_mCO34F0a6TwKVLydknUazlFHH4LUI4I8QVmRyLYYLbOgUNWFdSpGEV6rj7bEx7CXcy9gSlILaN4PsLVSFMUdvpExOOum46kJCnXNIkOaGAlMH-MI-fe1tsqysLUVMDUhfcVGg==&uniplatform=NZKPT&language=CHS)
+- `章轲`. 基于并行时空注意力机制的TCN多元时间序列预测方法: CN202011089562.X[P]. 2021-01-22. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=wScU5_zS5CNLOAnwh8F96Qv54ROP-w6oqSY1DQ5dzXP9wMJFo4f45sC_WZff0c1rW5P3X59rvQ_R5_tBqyfp_RolchKrhJB17DG4XZBELg2u4ZxVfmys9-gCqeNPolOXea0kOItGO8kMlFaZPuhVl4wIyiUwbVuQayyINb2FMj_aUafIzG5gBA==&uniplatform=NZKPT&language=CHS)
+- `章轲`. 一种基于深度模型框架的高效细粒度图像分类模型: CN202110918765.3[P]. 2021-11-02.[[网页]](https://kns.cnki.net/kcms2/article/abstract?v=wScU5_zS5COqOuUZD0Fg3vqSSC6j5nz7FldWCPXcrWO6FuJ0_mCO34F0a6TwKVLydknUazlFHH4LUI4I8QVmRyLYYLbOgUNWFdSpGEV6rj7bEx7CXcy9gSlILaN4PsLVSFMUdvpExOOum46kJCnXNIkOaGAlMH-MI-fe1tsqysLUVMDUhfcVGg==&uniplatform=NZKPT&language=CHS)
 
 
 
@@ -125,6 +125,7 @@ redirect_from:
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+
 
 
 
