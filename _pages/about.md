@@ -53,7 +53,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/25AAAI-framework.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Ting Yu, Zixuan Tong, Jun Yu, `Ke Zhang`*. Fine-grained Adaptive Visual Prompt for Generative Medical Visual Question Answering. *AAAI*, 2025. (Corresponding author) 
+-	Ting Yu, Zixuan Tong, Jun Yu, `Ke Zhang`\*. Fine-grained Adaptive Visual Prompt for Generative Medical Visual Question Answering. *AAAI*, 2025. (Corresponding author)
 [[Online]](https://doi.org/10.1609/aaai.v39i9.33047)  [[Download]](/pdf/(AAAI2025)Fine-grained Adaptive Visual Prompt for Generative Medical Visual Question Answering.pdf)
 
 </div>
@@ -72,7 +72,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	`Ke Zhang`, Hanliang Jiang, Jian Zhang, Qingming Huang, Jianping Fan, Jun Yu, Weidong Han. Semi-supervised Medical Report Generation via Graph-guided Hybrid Feature Consistency. *IEEE Transactions on Multimedia*, 2023.  
-[[网页]](https://doi.org/10.1109/TMM.2023.3273390)  [[下载]](/pdf/(TMM2023)Semi-Supervised_Medical_Report_Generation_via_Graph-Guided_Hybrid_Feature_Consistency.pdf)
+[[Online]](https://doi.org/10.1109/TMM.2023.3273390)  [[Download]](/pdf/(TMM2023)Semi-Supervised_Medical_Report_Generation_via_Graph-Guided_Hybrid_Feature_Consistency.pdf)
 
 </div>
 </div>
@@ -80,34 +80,30 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2025</div><img src='images/25JBHI-framework.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Ting Yu, Wangwen Lu, Yan Yang, Weidong Han, Qingming Huang, Jun Yu, `Ke Zhang`*. Adapter-Enhanced Hierarchical Cross-Modal Pre-training for Lightweight Medical Report Generation. *IEEE Journal of Biomedical and Health Informatics*, 2025. (Corresponding author)   
-[[网页]](https://doi.org/10.1109/JBHI.2025.3535699)  [[下载]](/pdf/(JBHI2025)Adapter_enhanced_hierarchical_cross_modal_Pre_training_for_Lightweight_Medical_Report_Generation.pdf)
+-	Ting Yu, Wangwen Lu, Yan Yang, Weidong Han, Qingming Huang, Jun Yu, `Ke Zhang`\*. Adapter-Enhanced Hierarchical Cross-Modal Pre-training for Lightweight Medical Report Generation. *IEEE Journal of Biomedical and Health Informatics*, 2025. (Corresponding author)   
+[[Online]](https://doi.org/10.1109/JBHI.2025.3535699)  [[Download]](/pdf/(JBHI2025)Adapter_enhanced_hierarchical_cross_modal_Pre_training_for_Lightweight_Medical_Report_Generation.pdf)
 
 </div>
 </div>
 
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://doi.org/10.1109/TMI.2024.3424505)  [[下载]](/pdf/(TMI2024)Attribute_Prototype-Guided_Iterative_Scene_Graph_for_Explainable_Radiology_Report_Generation.pdf)
+- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. Token-Mixer: Bind Image and Text in One Embedding Space for Medical Image Reporting. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
+[[Online]](https://doi.org/10.1109/TMI.2024.3412402)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
 
 
 - Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[网页]](https://doi.org/10.1109/TMI.2024.3424505)  [[下载]](/pdf/(TMI2024)Attribute_Prototype-Guided_Iterative_Scene_Graph_for_Explainable_Radiology_Report_Generation.pdf)
+[[Online]](https://doi.org/10.1109/TMM.2023.3325965)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
 
 - Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[网页]](https://doi.org/10.1109/TMI.2024.3424505)  [[下载]](/pdf/(TMI2024)Attribute_Prototype-Guided_Iterative_Scene_Graph_for_Explainable_Radiology_Report_Generation.pdf)
+[[Online]](https://doi.org/10.1109/TMM.2023.3325965)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
 
 -	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*, 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[网页]](https://doi.org/10.1109/TMI.2024.3424505)  [[下载]](/pdf/(TMI2024)Attribute_Prototype-Guided_Iterative_Scene_Graph_for_Explainable_Radiology_Report_Generation.pdf)
+[[Online]](https://doi.org/10.1109/TMM.2023.3325965)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
 
 -	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[网页]](https://doi.org/10.1109/TMI.2024.3424505)  [[下载]](/pdf/(TMI2024)Attribute_Prototype-Guided_Iterative_Scene_Graph_for_Explainable_Radiology_Report_Generation.pdf)
+[[Online]](https://doi.org/10.1109/TMM.2023.3325965)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
 
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[网页]](https://doi.org/10.1109/TMI.2024.3424505)  [[下载]](/pdf/(TMI2024)Attribute_Prototype-Guided_Iterative_Scene_Graph_for_Explainable_Radiology_Report_Generation.pdf)
 
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[网页]](https://doi.org/10.1109/TMI.2024.3424505)  [[下载]](/pdf/(TMI2024)Attribute_Prototype-Guided_Iterative_Scene_Graph_for_Explainable_Radiology_Report_Generation.pdf)
 
 
 
@@ -138,6 +134,7 @@ redirect_from:
 - *2024.09*, VALSE 2024 视觉与学习青年学者研讨会, 重庆
 - *2023.12*, 中国医学人工智能大会, 浙江杭州, 受邀圆桌报告
 - *2023.09*, 智能计算与安全前沿技术论坛, 浙江杭州
+
 
 
 
