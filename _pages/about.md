@@ -88,11 +88,11 @@ redirect_from:
 
 
 - Yan Yang, Jun Yu, Zhenqi Fu, `Ke Zhang`, et al. Token-Mixer: Bind Image and Text in One Embedding Space for Medical Image Reporting. *IEEE Transactions on Medical Imaging*, 2024.
-[[Online]](https://doi.org/10.1109/TMI.2024.3412402)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
+[[Online]](https://doi.org/10.1109/TMI.2024.3412402)  [[Download]](/pdf/Token-Mixer_Bind_Image_and_Text_in_One_Embedding_Space_for_Medical_Image_Reporting.pdf)
 
 
 - Yan Yang, Xiaoxing You, `Ke Zhang`, et al. Spatio-Temporal and Retrieval-Augmented Modeling for Chest X-Ray Report Generation. *IEEE Transactions on Medical Imaging*, 2025. 
-[[Online]](https://doi.org/10.1109/TMI.2025.3554498)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
+[[Online]](https://doi.org/10.1109/TMI.2025.3554498)  [[Download]](/pdf/Spatio-Temporal_and_Retrieval-Augmented_Modeling_for_Chest_X-Ray_Report_Generation.pdf)
 
 
 
@@ -126,6 +126,7 @@ redirect_from:
 - *2024.09*, VALSE 2024 视觉与学习青年学者研讨会, 重庆
 - *2023.12*, 中国医学人工智能大会, 浙江杭州, 受邀圆桌报告
 - *2023.09*, 智能计算与安全前沿技术论坛, 浙江杭州
+
 
 
 
