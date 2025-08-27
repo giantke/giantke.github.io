@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "章轲"
-description              : "医学多模态理解与生成"
+description              : "杭州师范大学"
 repository               : "giantke/giantke.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  G-Y7XGLD6779 # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "章轲"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "杭州电子科技大学"
+  bio              : "杭州师范大学"
   location         : "浙江 杭州"
-  employer         : #"Hangzhou Dianzi University"
+  employer         : "Hangzhou Normal University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RMLMbeMAAAAJ"
   email            : "ke.zhang@hdu.edu.cn"
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
