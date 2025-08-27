@@ -3,7 +3,7 @@ main:
   - title: "简介"
     url: "/#about-me"
 
-  - title: "学历"
+  - title: "教育"
     url: "/#-xl"
 
   - title: "论文专利"
@@ -14,5 +14,6 @@ main:
 
   - title: "学术会议"
     url: "/#-xshy"
+
 
 
