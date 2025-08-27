@@ -44,13 +44,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI 2024</div><img src='images/24TMI-framework.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *TMI*, 2024, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	`Ke Zhang`, Yan Yang, Jun Yu, Jianping Fan, Hanliang Jiang, Qingming Huang, Weidong Han. Attribute Prototype-Guided Iterative Scene Graph for Explainable Radiology Report Generation. *IEEE Transactions on Medical Imaging*, 2024.   
+[[网页]](https://doi.org/10.1109/TMI.2024.3424505) [[预览]](https://github.com/giantke/giantke.github.io/blob/main/pdf/(TMI2024)Attribute_Prototype-Guided_Iterative_Scene_Graph_for_Explainable_Radiology_Report_Generation.pdf) [[下载]](/pdf/(TMI2024)Attribute_Prototype-Guided_Iterative_Scene_Graph_for_Explainable_Radiology_Report_Generation.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/25AAAI-framework.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/25AAAI-framework.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
@@ -146,6 +146,7 @@ redirect_from:
 - *2024.09*, VALSE 2024 视觉与学习青年学者研讨会, 重庆
 - *2023.12*, 中国医学人工智能大会, 浙江杭州, 受邀圆桌报告
 - *2023.09*, 智能计算与安全前沿技术论坛, 浙江杭州
+
 
 
 
