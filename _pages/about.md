@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我博士毕业于浙江杭州的 杭州电子科技大学 计算机学院，我的导师是俞俊教授。本科毕业于 杭州电子科技大学 计算机学院 软件工程专业。包括合著，我已经发表 10+ 篇学术论文
+我博士毕业于浙江杭州的 杭州电子科技大学 计算机学院，我的导师是俞俊教授。本科毕业于 杭州电子科技大学 计算机学院 软件工程专业。目前于杭州师范大学开展博士后研究。包括合著，我已经发表 10+ 篇学术论文
  <a href='https://scholar.google.com/citations?user=RMLMbeMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -129,6 +129,7 @@ redirect_from:
 - *2024.09*, VALSE 2024 视觉与学习青年学者研讨会, 重庆
 - *2023.12*, 中国医学人工智能大会, 浙江杭州, 受邀圆桌报告
 - *2023.09*, 智能计算与安全前沿技术论坛, 浙江杭州
+
 
 
 
