@@ -87,21 +87,13 @@ redirect_from:
 </div>
 
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. Token-Mixer: Bind Image and Text in One Embedding Space for Medical Image Reporting. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
+- Yan Yang, Jun Yu, Zhenqi Fu, `Ke Zhang`, et al. Token-Mixer: Bind Image and Text in One Embedding Space for Medical Image Reporting. *IEEE Transactions on Medical Imaging*, 2024.
 [[Online]](https://doi.org/10.1109/TMI.2024.3412402)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
 
 
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[Online]](https://doi.org/10.1109/TMM.2023.3325965)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
+- Yan Yang, Xiaoxing You, `Ke Zhang`, et al. Spatio-Temporal and Retrieval-Augmented Modeling for Chest X-Ray Report Generation. *IEEE Transactions on Medical Imaging*, 2025. 
+[[Online]](https://doi.org/10.1109/TMI.2025.3554498)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
 
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[Online]](https://doi.org/10.1109/TMM.2023.3325965)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
-
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*, 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[Online]](https://doi.org/10.1109/TMM.2023.3325965)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
-
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[Online]](https://doi.org/10.1109/TMM.2023.3325965)  [[Download]](/pdf/(TMM2024)Multi-Task_Paired_Masking_With_Alignment_Modeling_for_Medical_Vision-Language_Pre-Training.pdf)
 
 
 
@@ -134,6 +126,7 @@ redirect_from:
 - *2024.09*, VALSE 2024 视觉与学习青年学者研讨会, 重庆
 - *2023.12*, 中国医学人工智能大会, 浙江杭州, 受邀圆桌报告
 - *2023.09*, 智能计算与安全前沿技术论坛, 浙江杭州
+
 
 
 
